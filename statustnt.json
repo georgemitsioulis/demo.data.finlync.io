@@ -2187,7 +2187,7 @@
         "FL_PYS_RS_TXNCHRG": null,
         "FL_PYS_RS_TXNDRCRIND_CR": "CR",
         "FL_PYS_RS_TXNACCID_CR": "627869592",
-        "FL_PYS_RS_TXNACCNAME_CR": "Maxwell LTD",
+        "FL_PYS_RS_TXNACCNAME_CR": "Maxwell LTD.",
         "FL_PYS_RS_TXNACCBNK_CR": "987654321",
         "FL_PYS_RS_TXNDRCRIND": "DR",
         "FL_PYS_RS_TXNACCID": "000000000008056",
