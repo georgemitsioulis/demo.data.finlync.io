@@ -57,7 +57,7 @@
       "FL_ACB_RQ_ACCNUM": "9578889632",
       "FL_ACB_RQ_ACBALCURR": "CNH"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "9578889632",
       "FL_ACB_RS_ACCNUM": "9578889632",
       "FL_ACB_RS_ACBALCURR": "CNH",
@@ -68,14 +68,14 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "901670.00",
       "FL_ACB_RS_ACBALCLLED": "901670.00"
-    }
+    }]
   },
   {
     "request": {
       "FL_ACB_RQ_ACCNUM": "235658",
       "FL_ACB_RQ_ACBALCURR": "JPY"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "235658",
       "FL_ACB_RS_ACCNUM": "235658",
       "FL_ACB_RS_ACBALCURR": "JPY",
@@ -86,14 +86,14 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "17501520.00",
       "FL_ACB_RS_ACBALCLLED": "17501520.00"
-    }
+    }]
   },
   {
     "request": {
       "FL_ACB_RQ_ACCNUM": "8787542169584",
       "FL_ACB_RQ_ACBALCURR": "CNY"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "8787542169584",
       "FL_ACB_RS_ACCNUM": "8787542169584",
       "FL_ACB_RS_ACBALCURR": "CNY",
@@ -104,14 +104,14 @@
       "FL_ACB_RS_CRDRIND": "Credit",
       "FL_ACB_RS_ACBALCLAVL": "1011530.00",
       "FL_ACB_RS_ACBALCLLED": "1011530.00"
-    }
+    }]
   },
   {
     "request": {
       "FL_ACB_RQ_ACCNUM": "5874596",
       "FL_ACB_RQ_ACBALCURR": "SGD"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "5874596",
       "FL_ACB_RS_ACCNUM": "5874596",
       "FL_ACB_RS_ACBALCURR": "SGD",
@@ -122,14 +122,14 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "42520.00",
       "FL_ACB_RS_ACBALCLLED": "42520.00"
-    }
+    }]
   },
   {
     "request": {
       "FL_ACB_RQ_ACCNUM": "3260478592USD",
       "FL_ACB_RQ_ACBALCURR": "USD"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "3260478592USD",
       "FL_ACB_RS_ACCNUM": "3260478592USD",
       "FL_ACB_RS_ACBALCURR": "USD",
@@ -140,6 +140,6 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "402720.00",
       "FL_ACB_RS_ACBALCLLED": "402720.00"
-    }
+    }]
   }
 ]
