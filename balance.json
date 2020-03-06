@@ -1,25 +1,45 @@
 [
    {
       "request":{
-         "FL_ACB_RQ_ACCNUM":"5874596",
-         "FL_ACB_RQ_ACBALCURR":"SGD"
+         "FL_ACB_RQ_ACCNUM":"3260478592EUR",
+         "FL_ACB_RQ_ACBALCURR":"EUR"
       },
       "response":[
          {
-      "FL_ACB_RS_ACCNUMFULL":"5874596",
-      "FL_ACB_RS_ACCNUM":"5874596",
-      "FL_ACB_RS_ACBALCURR":"SGD",
-      "FL_ACB_RS_ACBALOPAVL":"7000",
-      "FL_ACB_RS_ACBALOPLED":"7000",
-      "FL_ACB_RS_ACBALDATE":"20200207",
+      "FL_ACB_RS_ACCNUMFULL":"3260478592EUR",
+      "FL_ACB_RS_ACCNUM":"3260478592EUR",
+      "FL_ACB_RS_ACBALCURR":"EUR",
+      "FL_ACB_RS_ACBALOPAVL":"50000",
+      "FL_ACB_RS_ACBALOPLED":"50000",
+      "FL_ACB_RS_ACBALDATE":"20200206",
       "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
       "FL_ACB_RS_CRDRIND":"credit",
-      "FL_ACB_RS_ACBALCLAVL":"40000",
-      "FL_ACB_RS_ACBALCLLED":"39000"
+      "FL_ACB_RS_ACBALCLAVL":"85450",
+      "FL_ACB_RS_ACBALCLLED":"85450"
          }
       ]
    },
    {
+      "request":{
+         "FL_ACB_RQ_ACCNUM":"3260478592EUR",
+         "FL_ACB_RQ_ACBALCURR":"EUR"
+      },
+      "response":[
+         {
+      "FL_ACB_RS_ACCNUMFULL":"3260478592EUR",
+      "FL_ACB_RS_ACCNUM":"3260478592EUR",
+      "FL_ACB_RS_ACBALCURR":"EUR",
+      "FL_ACB_RS_ACBALOPAVL":"350000",
+      "FL_ACB_RS_ACBALOPLED":"39000",
+      "FL_ACB_RS_ACBALDATE":"20200213",
+      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
+      "FL_ACB_RS_CRDRIND":"credit",
+      "FL_ACB_RS_ACBALCLAVL":"504190",
+      "FL_ACB_RS_ACBALCLLED":"504190"
+         }
+      ]
+   },
+{
       "request":{
          "FL_ACB_RQ_ACCNUM":"3260478592GBP",
          "FL_ACB_RQ_ACBALCURR":"GBP"
@@ -29,53 +49,13 @@
       "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
       "FL_ACB_RS_ACCNUM":"3260478592GBP",
       "FL_ACB_RS_ACBALCURR":"GBP",
-      "FL_ACB_RS_ACBALOPAVL":"2457112",
-      "FL_ACB_RS_ACBALOPLED":"250112",
-      "FL_ACB_RS_ACBALDATE":"20200212",
+      "FL_ACB_RS_ACBALOPAVL":"150999",
+      "FL_ACB_RS_ACBALOPLED":"250000",
+      "FL_ACB_RS_ACBALDATE":"20200213",
       "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
       "FL_ACB_RS_CRDRIND":"credit",
-      "FL_ACB_RS_ACBALCLAVL":"150999",
-      "FL_ACB_RS_ACBALCLLED":"250000"
-         }
-      ]
-   },
-{
-      "request":{
-         "FL_ACB_RQ_ACCNUM":"3260478592USD",
-         "FL_ACB_RQ_ACBALCURR":"USD"
-      },
-      "response":[
-         {
-      "FL_ACB_RS_ACCNUMFULL":"3260478592USD",
-      "FL_ACB_RS_ACCNUM":"3260478592USD",
-      "FL_ACB_RS_ACBALCURR":"USD",
-      "FL_ACB_RS_ACBALOPAVL":"401200",
-      "FL_ACB_RS_ACBALOPLED":"401200",
-      "FL_ACB_RS_ACBALDATE":"20200205",
-      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
-      "FL_ACB_RS_CRDRIND":"credit",
-      "FL_ACB_RS_ACBALCLAVL":"401200",
-      "FL_ACB_RS_ACBALCLLED":"401200"
-         }
-      ]
-   },
-{
-      "request":{
-         "FL_ACB_RQ_ACCNUM":"3260478592USD",
-         "FL_ACB_RQ_ACBALCURR":"USD"
-      },
-      "response":[
-         {
-      "FL_ACB_RS_ACCNUMFULL":"3260478592USD",
-      "FL_ACB_RS_ACCNUM":"3260478592USD",
-      "FL_ACB_RS_ACBALCURR":"USD",
-      "FL_ACB_RS_ACBALOPAVL":"401200",
-      "FL_ACB_RS_ACBALOPLED":"401200",
-      "FL_ACB_RS_ACBALDATE":"20200207",
-      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
-      "FL_ACB_RS_CRDRIND":"credit",
-      "FL_ACB_RS_ACBALCLAVL":"396000",
-      "FL_ACB_RS_ACBALCLLED":"396000"
+      "FL_ACB_RS_ACBALCLAVL":"100800",
+      "FL_ACB_RS_ACBALCLLED":"100800"
          }
       ]
    },
@@ -91,31 +71,91 @@
       "FL_ACB_RS_ACBALCURR":"USD",
       "FL_ACB_RS_ACBALOPAVL":"396000",
       "FL_ACB_RS_ACBALOPLED":"396000",
-      "FL_ACB_RS_ACBALDATE":"20200212",
+      "FL_ACB_RS_ACBALDATE":"20200213",
       "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
       "FL_ACB_RS_CRDRIND":"credit",
-      "FL_ACB_RS_ACBALCLAVL":"396000",
-      "FL_ACB_RS_ACBALCLLED":"396000"
+      "FL_ACB_RS_ACBALCLAVL":"401250",
+      "FL_ACB_RS_ACBALCLLED":"401250"
          }
       ]
    },
 {
       "request":{
-         "FL_ACB_RQ_ACCNUM":"457741",
-         "FL_ACB_RQ_ACBALCURR":"HKD"
+         "FL_ACB_RQ_ACCNUM":"8787542169584",
+         "FL_ACB_RQ_ACBALCURR":"CNY"
       },
       "response":[
          {
-      "FL_ACB_RS_ACCNUMFULL":"457741",
-      "FL_ACB_RS_ACCNUM":"457741",
-      "FL_ACB_RS_ACBALCURR":"HKD",
-      "FL_ACB_RS_ACBALOPAVL":"85200",
-      "FL_ACB_RS_ACBALOPLED":"85200",
-      "FL_ACB_RS_ACBALDATE":"20200212",
+      "FL_ACB_RS_ACCNUMFULL":"8787542169584",
+      "FL_ACB_RS_ACCNUM":"8787542169584",
+      "FL_ACB_RS_ACBALCURR":"CNY",
+      "FL_ACB_RS_ACBALOPAVL":"1500260",
+      "FL_ACB_RS_ACBALOPLED":"1500260",
+      "FL_ACB_RS_ACBALDATE":"20200205",
       "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
       "FL_ACB_RS_CRDRIND":"Credit",
-      "FL_ACB_RS_ACBALCLAVL":"1000100",
-      "FL_ACB_RS_ACBALCLLED":"1000100"
+      "FL_ACB_RS_ACBALCLAVL":"830260",
+      "FL_ACB_RS_ACBALCLLED":"830260"
+         }
+      ]
+   },
+{
+      "request":{
+         "FL_ACB_RQ_ACCNUM":"8787542169584",
+         "FL_ACB_RQ_ACBALCURR":"CNY"
+      },
+      "response":[
+         {
+      "FL_ACB_RS_ACCNUMFULL":"8787542169584",
+      "FL_ACB_RS_ACCNUM":"8787542169584",
+      "FL_ACB_RS_ACBALCURR":"CNY",
+      "FL_ACB_RS_ACBALOPAVL":"1000010",
+      "FL_ACB_RS_ACBALOPLED":"1000010",
+      "FL_ACB_RS_ACBALDATE":"20200207",
+      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
+      "FL_ACB_RS_CRDRIND":"Credit",
+      "FL_ACB_RS_ACBALCLAVL":"1004010",
+      "FL_ACB_RS_ACBALCLLED":"1004010"
+         }
+      ]
+   },
+{
+      "request":{
+         "FL_ACB_RQ_ACCNUM":"8787542169584",
+         "FL_ACB_RQ_ACBALCURR":"CNY"
+      },
+      "response":[
+         {
+      "FL_ACB_RS_ACCNUMFULL":"8787542169584",
+      "FL_ACB_RS_ACCNUM":"8787542169584",
+      "FL_ACB_RS_ACBALCURR":"CNY",
+      "FL_ACB_RS_ACBALOPAVL":"75820",
+      "FL_ACB_RS_ACBALOPLED":"75820",
+      "FL_ACB_RS_ACBALDATE":"20200210",
+      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
+      "FL_ACB_RS_CRDRIND":"Credit",
+      "FL_ACB_RS_ACBALCLAVL":"450620",
+      "FL_ACB_RS_ACBALCLLED":"450620"
+         }
+      ]
+   },
+{
+      "request":{
+         "FL_ACB_RQ_ACCNUM":"8787542169584",
+         "FL_ACB_RQ_ACBALCURR":"CNY"
+      },
+      "response":[
+         {
+      "FL_ACB_RS_ACCNUMFULL":"8787542169584",
+      "FL_ACB_RS_ACCNUM":"8787542169584",
+      "FL_ACB_RS_ACBALCURR":"CNY",
+      "FL_ACB_RS_ACBALOPAVL":"80874",
+      "FL_ACB_RS_ACBALOPLED":"80874",
+      "FL_ACB_RS_ACBALDATE":"20200213",
+      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
+      "FL_ACB_RS_CRDRIND":"Credit",
+      "FL_ACB_RS_ACBALCLAVL":"147841",
+      "FL_ACB_RS_ACBALCLLED":"147841"
          }
       ]
    }
