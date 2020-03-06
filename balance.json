@@ -3,7 +3,7 @@
       "FL_ACB_RQ_ACCNUM": "3260478592EUR",
       "FL_ACB_RQ_ACBALCURR": "EUR"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "3260478592EUR",
       "FL_ACB_RS_ACCNUM": "3260478592EUR",
       "FL_ACB_RS_ACBALCURR": "EUR",
@@ -14,14 +14,14 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "92970.00",
       "FL_ACB_RS_ACBALCLLED": "92970.00"
-    }
+    }]
   },
   {
     "request": {
       "FL_ACB_RQ_ACCNUM": "3260478592GBP",
       "FL_ACB_RQ_ACBALCURR": "GBP"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "3260478592GBP",
       "FL_ACB_RS_ACCNUM": "3260478592GBP",
       "FL_ACB_RS_ACBALCURR": "GBP",
@@ -32,14 +32,14 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "1453520.00",
       "FL_ACB_RS_ACBALCLLED": "1453520.00"
-    }
+    }]
   },
   {
     "request": {
       "FL_ACB_RQ_ACCNUM": "457741",
       "FL_ACB_RQ_ACBALCURR": "HKD"
     },
-    "response": {
+    "response": [{
       "FL_ACB_RS_ACCNUMFULL": "457741",
       "FL_ACB_RS_ACCNUM": "457741",
       "FL_ACB_RS_ACBALCURR": "HKD",
@@ -50,7 +50,7 @@
       "FL_ACB_RS_CRDRIND": "credit",
       "FL_ACB_RS_ACBALCLAVL": "785520.00",
       "FL_ACB_RS_ACBALCLLED": "785520.00"
-    }
+    }]
   },
   {
     "request": {
