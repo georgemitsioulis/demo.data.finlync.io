@@ -1,7 +1,6 @@
 [
    {
       "request":{
-<<<<<<< HEAD
          "FL_ACB_RQ_ACCNUM":"457741",
          "FL_ACB_RQ_ACBALCURR":"HKD"
       },
@@ -22,8 +21,6 @@
    },
    {
       "request":{
-=======
->>>>>>> parent of 4482ed6... Rollover 05/02/2020
          "FL_ACB_RQ_ACCNUM":"3260478592GBP",
          "FL_ACB_RQ_ACBALCURR":"GPB"
       },
@@ -32,7 +29,6 @@
       "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
       "FL_ACB_RS_ACCNUM":"3260478592GBP",
       "FL_ACB_RS_ACBALCURR":"GBP",
-<<<<<<< HEAD
       "FL_ACB_RS_ACBALOPAVL":"150999",
       "FL_ACB_RS_ACBALOPLED":"250000",
       "FL_ACB_RS_ACBALDATE":"20200214",
@@ -40,15 +36,6 @@
       "FL_ACB_RS_CRDRIND":"credit",
       "FL_ACB_RS_ACBALCLAVL":"100800",
       "FL_ACB_RS_ACBALCLLED":"100800"
-=======
-      "FL_ACB_RS_ACBALOPAVL":"265410",
-      "FL_ACB_RS_ACBALOPLED":"230000",
-      "FL_ACB_RS_ACBALDATE":"20200206",
-      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
-      "FL_ACB_RS_CRDRIND":"Credit",
-      "FL_ACB_RS_ACBALCLAVL":"120580",
-      "FL_ACB_RS_ACBALCLLED":"120000"
->>>>>>> parent of 4482ed6... Rollover 05/02/2020
          }
       ]
    },
@@ -62,7 +49,6 @@
       "FL_ACB_RS_ACCNUMFULL":"457741",
       "FL_ACB_RS_ACCNUM":"457741",
       "FL_ACB_RS_ACBALCURR":"HKD",
-<<<<<<< HEAD
       "FL_ACB_RS_ACBALOPAVL":"1200100",
       "FL_ACB_RS_ACBALOPLED":"1200100",
       "FL_ACB_RS_ACBALDATE":"20200214",
@@ -70,15 +56,6 @@
       "FL_ACB_RS_CRDRIND":"Credit",
       "FL_ACB_RS_ACBALCLAVL":"750410",
       "FL_ACB_RS_ACBALCLLED":"750410"
-=======
-      "FL_ACB_RS_ACBALOPAVL":"150000",
-      "FL_ACB_RS_ACBALOPLED":"135000",
-      "FL_ACB_RS_ACBALDATE":"20200206",
-      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
-      "FL_ACB_RS_CRDRIND":"Credit",
-      "FL_ACB_RS_ACBALCLAVL":"75000",
-      "FL_ACB_RS_ACBALCLLED":"73000"
->>>>>>> parent of 4482ed6... Rollover 05/02/2020
          }
       ]
    },
@@ -92,7 +69,6 @@
       "FL_ACB_RS_ACCNUMFULL":"9578889632",
       "FL_ACB_RS_ACCNUM":"9578889632",
       "FL_ACB_RS_ACBALCURR":"CNH",
-<<<<<<< HEAD
       "FL_ACB_RS_ACBALOPAVL":"3500000",
       "FL_ACB_RS_ACBALOPLED":"3500000",
       "FL_ACB_RS_ACBALDATE":"20200214",
@@ -100,26 +76,16 @@
       "FL_ACB_RS_CRDRIND":"Credit",
       "FL_ACB_RS_ACBALCLAVL":"2050600",
       "FL_ACB_RS_ACBALCLLED":"2050600"
-=======
-      "FL_ACB_RS_ACBALOPAVL":"1200475",
-      "FL_ACB_RS_ACBALOPLED":"1200475",
-      "FL_ACB_RS_ACBALDATE":"20200206",
-      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
-      "FL_ACB_RS_CRDRIND":"Credit",
-      "FL_ACB_RS_ACBALCLAVL":"1550000",
-      "FL_ACB_RS_ACBALCLLED":"1500000"
->>>>>>> parent of 4482ed6... Rollover 05/02/2020
          }
       ]
    },
 {
       "request":{
-         "FL_ACB_RQ_ACCNUM":"8787542169584",
-         "FL_ACB_RQ_ACBALCURR":"CNY"
+         "FL_ACB_RQ_ACCNUM":"235658",
+         "FL_ACB_RQ_ACBALCURR":"JPY"
       },
       "response":[
          {
-<<<<<<< HEAD
       "FL_ACB_RS_ACCNUMFULL":"235658",
       "FL_ACB_RS_ACCNUM":"235658",
       "FL_ACB_RS_ACBALCURR":"JPY",
@@ -130,18 +96,6 @@
       "FL_ACB_RS_CRDRIND":"credit",
       "FL_ACB_RS_ACBALCLAVL":"30800500",
       "FL_ACB_RS_ACBALCLLED":"30800500"
-=======
-      "FL_ACB_RS_ACCNUMFULL":"8787542169584",
-      "FL_ACB_RS_ACCNUM":"8787542169584",
-      "FL_ACB_RS_ACBALCURR":"CNY",
-      "FL_ACB_RS_ACBALOPAVL":"830260",
-      "FL_ACB_RS_ACBALOPLED":"830260",
-      "FL_ACB_RS_ACBALDATE":"20200206",
-      "FL_ACB_RS_ACBALTIME":"01:27:00 AM",
-      "FL_ACB_RS_CRDRIND":"Credit",
-      "FL_ACB_RS_ACBALCLAVL":"1000010",
-      "FL_ACB_RS_ACBALCLLED":"1000010"
->>>>>>> parent of 4482ed6... Rollover 05/02/2020
          }
       ]
    }
