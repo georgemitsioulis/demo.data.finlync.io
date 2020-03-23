@@ -1,0 +1,25 @@
+[{
+    "request": {
+        "FL_ACT_RQ_ACCNUM": "20000002CNY",
+        "FL_ACT_RQ_ACBALCURR": "CNY",
+        "FL_ACT_RQ_BNKCNT": "CN"
+    },
+    "response": [{
+        "FL_ACT_RS_ENQMSGID": "809306562778399",
+        "FL_ACT_RS_ENQORGID": "CNBJG248",
+        "FL_ACT_RS_ACTRNTIME": "2020-03-23T07:40:54.636",
+        "FL_ACT_RS_ENQCNTY": "CN",
+        "FL_ACT_RS_ENQSTATUS": "ACSP",
+        "FL_ACT_RS_ACCNUM": "20000002",
+        "FL_ACT_RS_ACCURR": "CNY",
+        "FL_ACT_RS_COUNTER": 1,
+        "FL_ACT_RS_DRCRIND": "D",
+        "FL_ACT_RS_TRNAMT": "-100",
+        "FL_ACT_RS_BAITYPCD": "TRF",
+        "FL_ACT_RS_NARRTXT": "FPS TESTING CUSTREF1",
+        "FL_ACT_RS_ACTRNDATE": "2020-03-17",
+        "FL_ACT_RS_ACTRNALDT": "2020-03-17",
+        "FL_ACT_RS_TRNCURR": "CNY",
+        "FL_ACT_RS_HASHCL": "Some_Unique_Value"
+    }]
+}]
