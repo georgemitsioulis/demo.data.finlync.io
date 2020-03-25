@@ -98,7 +98,7 @@
             "FL_ACB_RS_ACBALCLLED":"17352000"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"3260478592GBP",
@@ -178,7 +178,7 @@
       "FL_ACB_RS_ACBALCLLED":"1000010"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"3260478592GBP",
@@ -218,7 +218,7 @@
       "FL_ACB_RS_ACBALCLLED":"5800000"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"3260478592GBP",
@@ -318,7 +318,7 @@
       "FL_ACB_RS_ACBALCLLED":"39000"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"3260478592GBP",
@@ -418,7 +418,7 @@
       "FL_ACB_RS_ACBALCLLED":"91260"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"5874596",
@@ -538,7 +538,7 @@
       "FL_ACB_RS_ACBALCLLED":"1000100"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"3260478592EUR",
@@ -698,7 +698,7 @@
       "FL_ACB_RS_ACBALCLLED":"147841"
          }
       ]
-   }
+   },
    {
       "request":{
          "FL_ACB_RQ_ACCNUM":"457741",
