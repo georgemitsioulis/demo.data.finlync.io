@@ -21,7 +21,19 @@
         "FL_ACT_RS_ACTRNALDT": "2020-04-07",
         "FL_ACT_RS_TRNCURR": "EUR",
         "FL_ACT_RS_HASHCL": "3260478592EUR0704200001"
-    }]
+    },
+	     {
+        "FL_ACB_RS_ACCNUMFULL":"3260478592EUR",
+        "FL_ACB_RS_ACCNUM":"3260478592EUR",
+        "FL_ACB_RS_ACBALCURR":"EUR",
+        "FL_ACB_RS_ACBALOPAVL":"92970",
+        "FL_ACB_RS_ACBALOPLED":"92970",
+        "FL_ACB_RS_ACBALDATE":"20200407",
+        "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
+        "FL_ACB_RS_CRDRIND":"credit",
+        "FL_ACB_RS_ACBALCLAVL":"92900",
+        "FL_ACB_RS_ACBALCLLED":"92900"
+         }]
 },
 {
     "request": {
@@ -46,7 +58,19 @@
         "FL_ACT_RS_ACTRNALDT": "2020-04-06",
         "FL_ACT_RS_TRNCURR": "EUR",
         "FL_ACT_RS_HASHCL": "3260478592EUR0704200002"
-    }]
+    },
+		     {
+        "FL_ACB_RS_ACCNUMFULL":"3260478592EUR",
+        "FL_ACB_RS_ACCNUM":"3260478592EUR",
+        "FL_ACB_RS_ACBALCURR":"EUR",
+        "FL_ACB_RS_ACBALOPAVL":"92900",
+        "FL_ACB_RS_ACBALOPLED":"92900",
+        "FL_ACB_RS_ACBALDATE":"20200407",
+        "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
+        "FL_ACB_RS_CRDRIND":"credit",
+        "FL_ACB_RS_ACBALCLAVL":"93000",
+        "FL_ACB_RS_ACBALCLLED":"93000"
+         }]
 },
 {
     "request": {
@@ -71,6 +95,19 @@
         "FL_ACT_RS_ACTRNALDT": "2020-04-06",
         "FL_ACT_RS_TRNCURR": "EUR",
         "FL_ACT_RS_HASHCL": "3260478592EUR0704200003"
-    }]
-}
+    },
+			     {
+        "FL_ACB_RS_ACCNUMFULL":"3260478592EUR",
+        "FL_ACB_RS_ACCNUM":"3260478592EUR",
+        "FL_ACB_RS_ACBALCURR":"EUR",
+        "FL_ACB_RS_ACBALOPAVL":"93000",
+        "FL_ACB_RS_ACBALOPLED":"93000",
+        "FL_ACB_RS_ACBALDATE":"20200407",
+        "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
+        "FL_ACB_RS_CRDRIND":"credit",
+        "FL_ACB_RS_ACBALCLAVL":"88000",
+        "FL_ACB_RS_ACBALCLLED":"88000"
+         }
+      ]
+   }
 ]
