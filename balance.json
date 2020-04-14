@@ -9,13 +9,13 @@
             "FL_ACB_RS_ACCNUMFULL":"3260478592USD",
             "FL_ACB_RS_ACCNUM":"3260478592USD",
             "FL_ACB_RS_ACBALCURR":"USD",
-            "FL_ACB_RS_ACBALOPAVL":"150000",
-            "FL_ACB_RS_ACBALOPLED":"150000",
+            "FL_ACB_RS_ACBALOPAVL":"343937",
+            "FL_ACB_RS_ACBALOPLED":"343937",
             "FL_ACB_RS_ACBALDATE":"20200414",
             "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
             "FL_ACB_RS_CRDRIND":"credit",
-            "FL_ACB_RS_ACBALCLAVL":"200000",
-            "FL_ACB_RS_ACBALCLLED":"200000"
+            "FL_ACB_RS_ACBALCLAVL":"402720",
+            "FL_ACB_RS_ACBALCLLED":"402720"
          }
       ]
    }
