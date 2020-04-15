@@ -9,13 +9,13 @@
             "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
             "FL_ACB_RS_ACCNUM":"3260478592GBP",
             "FL_ACB_RS_ACBALCURR":"GBP",
-            "FL_ACB_RS_ACBALOPAVL":"1452995",
-            "FL_ACB_RS_ACBALOPLED":"1452995",
-            "FL_ACB_RS_ACBALDATE":"20200413",
+            "FL_ACB_RS_ACBALOPAVL":"1450995",
+            "FL_ACB_RS_ACBALOPLED":"1450995",
+            "FL_ACB_RS_ACBALDATE":"20200412",
             "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
             "FL_ACB_RS_CRDRIND":"credit",
-            "FL_ACB_RS_ACBALCLAVL":"1452405",
-            "FL_ACB_RS_ACBALCLLED":"1452405"
+            "FL_ACB_RS_ACBALCLAVL":"1450405",
+            "FL_ACB_RS_ACBALCLLED":"1450405"
          }
       ]
    }
