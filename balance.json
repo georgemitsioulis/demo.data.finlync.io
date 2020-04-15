@@ -9,13 +9,13 @@
             "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
             "FL_ACB_RS_ACCNUM":"3260478592GBP",
             "FL_ACB_RS_ACBALCURR":"GBP",
-            "FL_ACB_RS_ACBALOPAVL":"1433995",
-            "FL_ACB_RS_ACBALOPLED":"1433995",
-            "FL_ACB_RS_ACBALDATE":"20200416",
+            "FL_ACB_RS_ACBALOPAVL":"433995",
+            "FL_ACB_RS_ACBALOPLED":"433995",
+            "FL_ACB_RS_ACBALDATE":"20200418",
             "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
             "FL_ACB_RS_CRDRIND":"credit",
-            "FL_ACB_RS_ACBALCLAVL":"1434405",
-            "FL_ACB_RS_ACBALCLLED":"1434405"
+            "FL_ACB_RS_ACBALCLAVL":"434405",
+            "FL_ACB_RS_ACBALCLLED":"434405"
          }
       ]
    },
@@ -29,15 +29,54 @@
             "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
             "FL_ACB_RS_ACCNUM":"3260478592GBP",
             "FL_ACB_RS_ACBALCURR":"GBP",
-            "FL_ACB_RS_ACBALOPAVL":"1413995",
-            "FL_ACB_RS_ACBALOPLED":"1413995",
-            "FL_ACB_RS_ACBALDATE":"20200417",
+            "FL_ACB_RS_ACBALOPAVL":"413995",
+            "FL_ACB_RS_ACBALOPLED":"413995",
+            "FL_ACB_RS_ACBALDATE":"20200419",
             "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
             "FL_ACB_RS_CRDRIND":"credit",
-            "FL_ACB_RS_ACBALCLAVL":"1414405",
-            "FL_ACB_RS_ACBALCLLED":"1414405"
+            "FL_ACB_RS_ACBALCLAVL":"414405",
+            "FL_ACB_RS_ACBALCLLED":"414405"
+         }
+      ]
+   },
+   {
+      "request":{
+         "FL_ACB_RQ_ACCNUM":"3260478592GBP",
+         "FL_ACB_RQ_ACBALCURR":"GBP"
+      },
+      "response":[
+         {
+            "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
+            "FL_ACB_RS_ACCNUM":"3260478592GBP",
+            "FL_ACB_RS_ACBALCURR":"GBP",
+            "FL_ACB_RS_ACBALOPAVL":"393995",
+            "FL_ACB_RS_ACBALOPLED":"393995",
+            "FL_ACB_RS_ACBALDATE":"20200420",
+            "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
+            "FL_ACB_RS_CRDRIND":"credit",
+            "FL_ACB_RS_ACBALCLAVL":"394405",
+            "FL_ACB_RS_ACBALCLLED":"394405"
+         }
+      ]
+   },
+   {
+      "request":{
+         "FL_ACB_RQ_ACCNUM":"3260478592GBP",
+         "FL_ACB_RQ_ACBALCURR":"GBP"
+      },
+      "response":[
+         {
+            "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
+            "FL_ACB_RS_ACCNUM":"3260478592GBP",
+            "FL_ACB_RS_ACBALCURR":"GBP",
+            "FL_ACB_RS_ACBALOPAVL":"373995",
+            "FL_ACB_RS_ACBALOPLED":"373995",
+            "FL_ACB_RS_ACBALDATE":"20200421",
+            "FL_ACB_RS_ACBALTIME":"01:27:00 PM",
+            "FL_ACB_RS_CRDRIND":"credit",
+            "FL_ACB_RS_ACBALCLAVL":"374405",
+            "FL_ACB_RS_ACBALCLLED":"374405"
          }
       ]
    }
-   
 ]
