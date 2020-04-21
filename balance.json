@@ -21,14 +21,14 @@
    },
    {
       "request":{
-         "FL_ACB_RQ_ACCNUM":"3260478592GBP",
-         "FL_ACB_RQ_ACBALCURR":"GPB"
+         "FL_ACB_RQ_ACCNUM":"3260478592EUR",
+         "FL_ACB_RQ_ACBALCURR":"EUR"
       },
       "response":[
          {
-      "FL_ACB_RS_ACCNUMFULL":"3260478592GBP",
-      "FL_ACB_RS_ACCNUM":"3260478592GBP",
-      "FL_ACB_RS_ACBALCURR":"GBP",
+      "FL_ACB_RS_ACCNUMFULL":"3260478592EUR",
+      "FL_ACB_RS_ACCNUM":"3260478592EUR",
+      "FL_ACB_RS_ACBALCURR":"EUR",
       "FL_ACB_RS_ACBALOPAVL":"-",
       "FL_ACB_RS_ACBALOPLED":"-",
       "FL_ACB_RS_ACBALDATE":"20200421",
